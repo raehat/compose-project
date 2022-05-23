@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InternshipT</string>
+    <string name="title_activity_comment">CommentActivity</string>
+    <string name="title_activity_comment_card">CommentCard</string>
+</resources>
